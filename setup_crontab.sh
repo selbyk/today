@@ -1,3 +1,4 @@
+#!/bin/sh
 # Path to this directory
 SCRIPT=`realpath $0`
 SCRIPTPATH=`dirname $SCRIPT`
